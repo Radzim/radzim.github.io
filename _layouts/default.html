@@ -2,13 +2,52 @@
 <html lang="en">
   <head>
     {% include head.html %}
+    <style>
+      body {
+        margin: 0;
+        font-family: Arial, sans-serif;
+        display: flex;
+        flex-direction: column;
+        min-height: 100vh;
+      }
+
+      header {
+        position: fixed;
+        top: 0;
+        width: 100%;
+        background: black;
+        color: white;
+        padding: 0.7em 0;
+        text-align: center;
+        z-index: 1000;
+      }
+
+      header a {
+        color: white;
+        text-decoration: none;
+        margin: 0 10px;
+      }
+
+      main {
+        flex: 1;
+        max-width: 800px;
+        margin: 80px auto 40px; /* space for header/footer */
+        padding: 1em;
+      }
+
+      footer {
+        background: black;
+        color: white;
+        text-align: center;
+        padding: 0.7em 0;
+      }
+    </style>
   </head>
   <body>
     <header>
-      <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
       <nav>
         <a href="{{ '/' | relative_url }}">Home</a> |
-	<a href="{{ '/supervisions/' | relative_url }}">Supervisions</a>
+        <a href="{{ '/supervisions/' | relative_url }}">Supervisions</a>
       </nav>
     </header>
 
