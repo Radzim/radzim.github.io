@@ -3,17 +3,28 @@
   <head>
     {% include head.html %}
     <style>
-      body {
+      * {
         margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      html, body {
+        height: 100%;
+      }
+
+      body {
         font-family: Arial, sans-serif;
         display: flex;
         flex-direction: column;
         min-height: 100vh;
+        background: white;
       }
 
       header {
         position: fixed;
         top: 0;
+        left: 0;
         width: 100%;
         background: black;
         color: white;
@@ -31,11 +42,16 @@
       main {
         flex: 1;
         max-width: 800px;
-        margin: 80px auto 40px; /* space for header/footer */
+        margin: 70px auto 0; /* spacing below header */
         padding: 1em;
+        width: 100%;
       }
 
       footer {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        width: 100%;
         background: black;
         color: white;
         text-align: center;
@@ -47,6 +63,7 @@
     <header>
       <nav>
         <a href="{{ '/' | relative_url }}">Home</a> |
+        <a href="{{ '/about' | relative_url }}">About</a> |
         <a href="{{ '/supervisions/' | relative_url }}">Supervisions</a>
       </nav>
     </header>
