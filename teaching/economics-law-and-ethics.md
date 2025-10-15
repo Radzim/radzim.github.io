@@ -7,8 +7,11 @@ title: Economics, Law and Ethics
 [Course Pages](https://www.cl.cam.ac.uk/teaching/2526/EconLaw/)
 [Past Papers](https://www.cl.cam.ac.uk/teaching/exams/pastpapers/t-EconomicsLawandEthics.html)
 [Older Past Papers](https://www.cl.cam.ac.uk/teaching/exams/pastpapers/t-EconomicsandLaw.html)
+
 <br><br>
+
 ---
+
 ## Blurb
 
 You're probably seeing this because I'll be supervising you for Economics, Law and Ethics this year.
@@ -22,7 +25,9 @@ This course only has twoÂ supervisions, so it's one of the more flexible ones to
 Please book supervisions through [KuDoS](https://kudos.chu.cam.ac.uk/)
 
 <br><br>
+
 ---
+
 ## Supervision 1
 To take place after lecture 4
 
@@ -38,7 +43,9 @@ d) What happens to your answers in (c) if your opponent is your friend, and youâ
 e) How did the brown-shirt guy change the payoff matrix for blue-shirt - explain the reasoning, reaction, etc.
 
 <br><br>
+
 ---
+
 ## Supervision 2
 To take place after lecture 8
 
