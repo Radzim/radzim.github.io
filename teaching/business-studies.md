@@ -67,7 +67,7 @@ What’s worth more, and why?
 - IVV or SPY?
 - January option or February option?  
 - META @400 Call or META @400 Put?
-<! end list -->
+
 
 3. Project Planning
 Create a PERT and Gantt chart of completing a supervision.
