@@ -4,3 +4,5 @@ url: "https://radzim.github.io"
 baseurl: ""
 markdown: kramdown
 theme: null
+kramdown:
+  hard_wrap: true
