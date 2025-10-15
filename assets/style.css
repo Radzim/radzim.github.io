@@ -48,3 +48,8 @@ footer {
   padding: 0.7em 0;
   margin-top: auto; /* keeps it at bottom when page is short */
 }
+
+main ul, main ol {
+  margin-left: 1.5em;   /* indent lists neatly */
+  padding-left: 1.5em;  /* ensures bullets/numbers align inside content */
+}
