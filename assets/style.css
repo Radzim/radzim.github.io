@@ -43,7 +43,7 @@ main {
   margin: 2em auto;
   padding: 1em;
   width: 100%;
-  white-space: normal;
+  white-space: pre-line;
 }
 
 footer {

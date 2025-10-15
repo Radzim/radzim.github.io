@@ -5,4 +5,4 @@ baseurl: ""
 markdown: kramdown
 theme: null
 kramdown:
-  hard_wrap: true
+  hard_wrap: false
