@@ -8,9 +8,11 @@ title: Business Studies
 [Past Papers](https://www.cl.cam.ac.uk/teaching/exams/pastpapers/t-BusinessStudies.html)
 [Sister Course](https://www.cl.cam.ac.uk/teaching/2526/ECommerce/)
 
-<br><br>
+<br>
 
 ---
+
+<br>
 
 ## Blurb
 
@@ -24,9 +26,11 @@ This course only has two supervisions, so it's one of the more flexible ones to 
 
 Please book supervisions through [KuDoS](https://kudos.chu.cam.ac.uk/)
 
-<br><br>
+<br>
 
 ---
+
+<br>
 
 ## Supervision 1
 To take place after lecture 4
@@ -42,9 +46,11 @@ Customer adoption [2020 Paper 9 Question 3(c)](https://www.cl.cam.ac.uk/teaching
 
 3. Financing and cashflow: [2018 Paper 7' Question 4](https://www.cl.cam.ac.uk/teaching/exams/pastpapers/y2018p27q4.pdf)
 
-<br><br>
+<br>
 
 ---
+
+<br>
 
 ## Supervision 2
 To take place after lecture 8
