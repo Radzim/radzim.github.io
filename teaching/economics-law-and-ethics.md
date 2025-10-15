@@ -7,10 +7,8 @@ title: Economics, Law and Ethics
 [Course Pages](https://www.cl.cam.ac.uk/teaching/2526/EconLaw/)
 [Past Papers](https://www.cl.cam.ac.uk/teaching/exams/pastpapers/t-EconomicsLawandEthics.html)
 
-<br>
+<br><br>
 ---
-<br>
-
 ## Blurb
 
 You're probably seeing this because I'll be supervising you for Economics, Law and Ethics this year.
@@ -21,10 +19,8 @@ I'm happy to supervise Online, in the Computer Lab, or in Churchill. For online 
 
 This course only has two supervisions, so it's one of the more flexible ones to schedule - that being said it's going to be hard to fit two supervisions in before the end of term and undergrad interviews, so it's quite likely that we will have one or two of them outside of term. If this is something you want to avoid, please let me know!
 
-<br>
+<br><br>
 ---
-<br>
-
 ## Supervision 1
 To take place after lecture 4
 
@@ -42,10 +38,8 @@ To take place after lecture 4
    - What happens to your answers in (3) if your opponent is your friend, and you’re 50% happy for them - i.e., you're as happy with them getting \$2 as with getting \$1 yourself?  
    - How did the brown-shirt guy change the payoff matrix for blue-shirt - explain the reasoning, reaction, etc.
 
-<br>
+<br><br>
 ---
-<br>
-
 ## Supervision 2
 To take place after lecture 8
 
