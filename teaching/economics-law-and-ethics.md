@@ -6,7 +6,7 @@ title: Economics, Law and Ethics
 # Economics, Law and Ethics Supervisions
 [Course Pages](https://www.cl.cam.ac.uk/teaching/2526/EconLaw/)
 [Past Papers](https://www.cl.cam.ac.uk/teaching/exams/pastpapers/t-EconomicsLawandEthics.html)
-
+[Older Past Papers](https://www.cl.cam.ac.uk/teaching/exams/pastpapers/t-EconomicsandLaw.html)
 <br><br>
 ---
 ## Blurb
@@ -18,6 +18,8 @@ This course can be relatively easy for some, with a good marks-to-time ratio, bu
 I'm happy to supervise Online, in the Computer Lab, or in Churchill. For online supervisions I will be calling you on Teams, I'll follow this up with you closer to. Please let me know if you have any questions or requests re- course or scheduling. Also, let me know what kind of supervisions you prefer so I can put out more slots like that. 
 
 This course only has two supervisions, so it's one of the more flexible ones to schedule - that being said it's going to be hard to fit two supervisions in before the end of term and undergrad interviews, so it's quite likely that we will have one or two of them outside of term. If this is something you want to avoid, please let me know!
+
+Please book supervisions through [KuDoS](https://kudos.chu.cam.ac.uk/)
 
 <br><br>
 ---
