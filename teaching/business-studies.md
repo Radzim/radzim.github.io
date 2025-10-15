@@ -3,7 +3,7 @@ layout: default
 title: Business Studies
 ---
 
-# Economics, Law and Ethics Supervisions
+# Business Studies Supervisions
 [Course Pages](https://www.cl.cam.ac.uk/teaching/2526/Business/)
 [Past Papers](https://www.cl.cam.ac.uk/teaching/exams/pastpapers/t-BusinessStudies.html)
 [Sister Course](https://www.cl.cam.ac.uk/teaching/2526/ECommerce/)
