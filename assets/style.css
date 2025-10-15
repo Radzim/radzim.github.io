@@ -33,13 +33,17 @@ header a:hover {
   text-decoration: underline;
 }
 
+main p {
+  margin-bottom: 1em;
+}
+
 main {
   flex: 1;
   max-width: 800px;
   margin: 2em auto;
   padding: 1em;
   width: 100%;
-  white-space: pre-line;
+  white-space: normal;
 }
 
 footer {
