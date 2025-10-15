@@ -5,9 +5,9 @@ title: Teaching
 
 ### Teaching
 <br>
+- [Accelerate Science Training](https://docs.science.ai.cam.ac.uk/training/) (MLE)
 - [Machine Learning Foundations](https://mlatcl.github.io/mlfc/) (TA)
 - [Advanced Data Science](https://mlatcl.github.io/advds/) (TA)
-- [Accelerate Science Training](https://docs.science.ai.cam.ac.uk/training/) (MLE)
 
 <br><br><br>
 ### Computer Science Tripos supervisions
@@ -21,8 +21,10 @@ title: Teaching
 - [Software and Security Engineering](software-and-security-engineering)
 
 <br><br><br>
-### Part-II Projects co-supervised
+### Projects co-supervised
 <br>
-- [Using Deep Reinforcement Learning to create a Bridge Bidding Robot](https://www.cl.cam.ac.uk/teaching/projects/archive/2024/ojs30-dissertation.pdf)
-- [Optimising F1 Race Strategy using Machine Learning](https://www.cl.cam.ac.uk/teaching/projects/overseers/archive.html)
-- [F1 Race and Pitstop strategy simulation](https://www.cl.cam.ac.uk/teaching/projects/overseers/archive.html)
+- [Using Deep Reinforcement Learning to create a Bridge Bidding Robot](https://www.cl.cam.ac.uk/teaching/projects/archive/2024/ojs30-dissertation.pdf) Part-II project
+- [Optimising F1 Race Strategy using Machine Learning](https://www.cl.cam.ac.uk/teaching/projects/overseers/archive.html) Part-II project
+- [F1 Race and Pitstop Strategy Simulation](https://www.cl.cam.ac.uk/teaching/projects/overseers/archive.html) Part-II project
+- [Global Knowledge Map of Science](https://github.com/acceleratescience/GlobalKnowledgeMap) DeepMind Research Ready summer internship
+
