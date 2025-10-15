@@ -1,3 +1,51 @@
-body { font-family: Arial, sans-serif; max-width: 700px; margin: auto; padding: 1em; }
-header, footer { text-align: center; margin: 2em 0; }
-nav a { margin: 0 10px; text-decoration: none; color: #0366d6; }
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background: white;
+}
+
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background: black;
+  color: white;
+  padding: 0.7em 0;
+  text-align: center;
+  z-index: 1000;
+}
+
+header a {
+  color: white;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+main {
+  flex: 1;
+  max-width: 800px;
+  margin: 70px auto 0; /* spacing below header */
+  padding: 1em;
+  width: 100%;
+}
+
+footer {
+  background: black;
+  color: white;
+  text-align: center;
+  padding: 0.7em 0;
+  margin-top: auto; /* pushes footer to the bottom if page is short */
+}
