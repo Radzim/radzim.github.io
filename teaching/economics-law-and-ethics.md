@@ -16,7 +16,7 @@ title: Economics, Law and Ethics
 
 ## Blurb
 
-You're probably seeing this because I'll be supervising you for Economics, Law and Ethics this year.
+You're probably seeing this because I'll be supervising you for Economics, Law and Ethics this year. Welcome!
 
 This course can be relatively easy for some, with a good marks-to-time ratio, but beware trying to get marks without revising, as there are many concepts and ideas you actually need to memorise, and you can get some really low scores if you're overconfident.
 
@@ -24,7 +24,7 @@ I'm happy to supervise Online, in the Computer Lab, or in Churchill. For online 
 
 This course only has two supervisions, so it's one of the more flexible ones to schedule - that being said it's going to be hard to fit two supervisions in before the end of term and undergrad interviews, so it's quite likely that we will have one or two of them outside of term. If this is something you want to avoid, please let me know!
 
-Please book supervisions through [KuDoS](https://kudos.chu.cam.ac.uk/)
+Please book supervisions through [KuDoS](https://kudos.chu.cam.ac.uk/), and make sure you're in contact with your supervision partners. If there are any issues, or you are otherwise not on track to complete your work by the time you booked, let me know - I much prefer to postpone the supervision but get complete work.
 
 <br>
 
@@ -37,7 +37,8 @@ To take place after lecture 4
 
 1. Supervision 1 questions from the [Worksheet](https://www.cl.cam.ac.uk/teaching/2425/EconLaw/supervision-material-2024-25.pdf)
 
-2. All questions from [2011 Paper 4 Question 7](https://www.cl.cam.ac.uk/teaching/exams/pastpapers/y2011p4q7.pdf)
+2. Past exam questions:
+Auctions: [2011 Paper 4 Question 7](https://www.cl.cam.ac.uk/teaching/exams/pastpapers/y2011p4q7.pdf)
 
 3. Explain the game theory happening in the [Split or Steal game](https://www.youtube.com/watch?v=S0qjK3TWZE8).
 a) What famous game do the intended mechanics of the gameshow mirror?  
@@ -57,7 +58,7 @@ To take place after lecture 8
 
 1. Supervision 2 questions from the [Worksheet](https://www.cl.cam.ac.uk/teaching/2425/EconLaw/supervision-material-2024-25.pdf)
 
-2. All questions (but you can be brief):
-   - [2020 Paper 7 Question 3](https://www.cl.cam.ac.uk/teaching/exams/pastpapers/y2020p7q3.pdf)  
-   - [2022 Paper 7 Question 3 (B)](https://www.cl.cam.ac.uk/teaching/exams/pastpapers/y2022p7q3.pdf)  
-   - [2020 Paper 7 Question 2)](https://www.cl.cam.ac.uk/teaching/exams/pastpapers/y2020p7q2.pdf)
+2. Past exam questions:
+   - Utility, pareto: [2020 Paper 7 Question 3 (A)](https://www.cl.cam.ac.uk/teaching/exams/pastpapers/y2020p7q3.pdf)  
+   - Law, Ethical philosophies: [2022 Paper 7 Question 3 (B)](https://www.cl.cam.ac.uk/teaching/exams/pastpapers/y2022p7q3.pdf)  
+   - GDPR: [2020 Paper 7 Question 2 (C)](https://www.cl.cam.ac.uk/teaching/exams/pastpapers/y2020p7q2.pdf)
