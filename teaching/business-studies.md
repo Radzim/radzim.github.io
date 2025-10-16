@@ -60,7 +60,7 @@ To take place after lecture 8
 1. Intellectual Property
 [2020 Paper 9 Question 3(a)](https://www.cl.cam.ac.uk/teaching/exams/pastpapers/y2020p9q3.pdf) 
 [2017 Paper 7 Question 5(a)](https://www.cl.cam.ac.uk/teaching/exams/pastpapers/y2017p7q5.pdf) 
-[2013 Paper 7 Question 4(a–b)](https://www.cl.cam.ac.uk/teaching/exams/pastpapers/y2013p7q4.pdf)
+[2013 Paper 7 Question 4(a,b)](https://www.cl.cam.ac.uk/teaching/exams/pastpapers/y2013p7q4.pdf)
 
 2. Financials
 What’s worth more, and why?  
@@ -69,7 +69,7 @@ What’s worth more, and why?
 - IVV or SPY?
 - January option or February option?  
 - META @400 Call or META @400 Put?
-
+&nbsp;
 
 3. Project Planning
 Create a PERT and Gantt chart of completing a supervision.
