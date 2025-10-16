@@ -8,6 +8,12 @@ title: Teaching
 - [Machine Learning Foundations](https://mlatcl.github.io/mlfc/) (TA)
 - [Advanced Data Science](https://mlatcl.github.io/advds/) (TA)
 
+<br>
+
+---
+
+<br>
+
 ## Computer Science Tripos supervisions
 - [Business Studies](business-studies)
 - [Cybersecurity](cybersecurity)
@@ -16,6 +22,12 @@ title: Teaching
 - [Economics, Law and Ethics](economics-law-and-ethics)
 - [Intro to Probability](intro-to-probability)
 - [Software and Security Engineering](software-and-security-engineering)
+
+<br>
+
+---
+
+<br>
 
 <!--
 ## Projects co-supervised

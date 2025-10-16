@@ -24,7 +24,7 @@ I'm happy to supervise Online, in the Computer Lab, or in Churchill. For online 
 
 This course only has two supervisions, so it's one of the more flexible ones to schedule - that being said it's going to be hard to fit two supervisions in before the end of term and undergrad interviews, so it's quite likely that we will have one or two of them outside of term. If this is something you want to avoid, please let me know!
 
-Please book supervisions through [KuDoS](https://kudos.chu.cam.ac.uk/), and make sure you're in contact with your supervision partners. If there are any issues, or you are otherwise not on track to complete your work by the time you booked, let me know - I much prefer to postpone the supervision but get complete work.
+Please book supervisions through KuDoS, and make sure you're in contact with your supervision partners. If there are any issues, or you are otherwise not on track to complete your work by the time you booked, let me know - I much prefer to postpone the supervision but get complete work.
 
 <br>
 
