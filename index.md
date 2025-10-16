@@ -3,11 +3,13 @@ layout: default
 title: Home
 ---
 
+<!--
 <br><br><br>
 ## Links
 <br>
 - [GitHub](https://github.com/radzim)
 - [LinkedIn](https://www.linkedin.com/in/sendyka)
+-->
 
 <br><br><br>
 ## My Hats
