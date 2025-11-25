@@ -3,13 +3,10 @@ layout: default
 title: Home
 ---
 
-<!--
-<br><br><br>
-## Links
+## Admin Links
 <br>
-- [GitHub](https://github.com/radzim)
-- [LinkedIn](https://www.linkedin.com/in/sendyka)
--->
+- [Booker](https://booker.eventmapsolutions.com/)
+- [Printing](https://managedprint.uis.private.cam.ac.uk/app?service=page/UserSummary)
 
 <br><br><br>
 ## My Hats
