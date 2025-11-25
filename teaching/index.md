@@ -14,7 +14,7 @@ title: Teaching
 
 <br>
 
-## Computer Science Tripos supervisions
+## Supervisions
 - [Business Studies](business-studies)
 - [Cybersecurity](cybersecurity)
 - [Data Science](data-science)
