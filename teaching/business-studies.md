@@ -62,6 +62,7 @@ To take place after lecture 8
 [2020 Paper 9 Question 3(a)](https://www.cl.cam.ac.uk/teaching/exams/pastpapers/y2020p9q3.pdf) 
 [2017 Paper 7 Question 5(a)](https://www.cl.cam.ac.uk/teaching/exams/pastpapers/y2017p7q5.pdf) 
 [2013 Paper 7 Question 4(a,b)](https://www.cl.cam.ac.uk/teaching/exams/pastpapers/y2013p7q4.pdf)
+(you can combine the repetitive parts into one big answer)
 
 2. Financials
 What’s worth more, and why?  
