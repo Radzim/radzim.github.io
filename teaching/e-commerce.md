@@ -38,7 +38,7 @@ To take place after lecture 4
 
 1. History
 - Summarise the history of electronic commerce (5 marks)
-- [2016 Paper 8 Question 7](https://www.cl.cam.ac.uk/teaching/exams/pastpapers/y2016p8q7.pdf).  
+- [2016 Paper 8 Question 7](https://www.cl.cam.ac.uk/teaching/exams/pastpapers/y2016p8q7.pdf)
 
 2. Network Economics
 - [2017 Paper 8 Question 7 Part A](https://www.cl.cam.ac.uk/teaching/exams/pastpapers/y2017p7q8.pdf)

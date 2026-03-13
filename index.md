@@ -16,3 +16,4 @@ title: Home
 - [Accelerate Science](https://science.ai.cam.ac.uk/team/radzim-sendyka)
 - [ML@CL](https://mlatcl.github.io/people/radzim-sendyka.html)
 - [Computer Lab](https://www.cst.cam.ac.uk/people/rs2071)
+- [Karolinska](https://ki.se/en/people/radzim-sendyka)
