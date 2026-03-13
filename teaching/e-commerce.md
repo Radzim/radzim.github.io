@@ -42,7 +42,8 @@ To take place after lecture 4
 
 2. Network Economics
 - [2017 Paper 8 Question 7 Parts A and B](https://www.cl.cam.ac.uk/teaching/exams/pastpapers/y2017p8q7.pdf)
-- [2023 Paper 8 Question 5 Parts A and B](https://www.cl.cam.ac.uk/teaching/exams/pastpapers/y2023p8q5.pdf)
+- [2023 Paper 8 Question 5 Part A](https://www.cl.cam.ac.uk/teaching/exams/pastpapers/y2023p8q5.pdf)
+- [2024 Paper 8 Question 5 Part B](https://www.cl.cam.ac.uk/teaching/exams/pastpapers/y2024p8q5.pdf)
 
 <br>
 
