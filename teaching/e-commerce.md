@@ -41,10 +41,8 @@ To take place after lecture 4
 - [2016 Paper 8 Question 7](https://www.cl.cam.ac.uk/teaching/exams/pastpapers/y2016p8q7.pdf)
 
 2. Network Economics
-- [2017 Paper 8 Question 7 Part A](https://www.cl.cam.ac.uk/teaching/exams/pastpapers/y2017p7q8.pdf)
-- [2017 Paper 8 Question 7 Part B](https://www.cl.cam.ac.uk/teaching/exams/pastpapers/y2017p8q7.pdf)
-- [2023 Paper 8 Question 5 Part A](https://www.cl.cam.ac.uk/teaching/exams/pastpapers/y2023p8q5.pdf)
-- [2024 Paper 8 Question 5 Part B](https://www.cl.cam.ac.uk/teaching/exams/pastpapers/y2024p8q5.pdf)
+- [2017 Paper 8 Question 7 Parts A and B](https://www.cl.cam.ac.uk/teaching/exams/pastpapers/y2017p8q7.pdf)
+- [2023 Paper 8 Question 5 Parts A and B](https://www.cl.cam.ac.uk/teaching/exams/pastpapers/y2023p8q5.pdf)
 
 <br>
 
@@ -61,8 +59,7 @@ To take place after lecture 8
 
 2. Finance
 - [2023 Paper 8 Question 5 Part C](https://www.cl.cam.ac.uk/teaching/exams/pastpapers/y2023p8q5.pdf)
-- [2018 Paper 8 Question 6 Part A](https://www.cl.cam.ac.uk/teaching/exams/pastpapers/y2018p8q6.pdf)
-- [2018 Paper 8 Question 6 Part B](https://www.cl.cam.ac.uk/teaching/exams/pastpapers/y2018p8q6.pdf)
+- [2018 Paper 8 Question 6 Parts A and B](https://www.cl.cam.ac.uk/teaching/exams/pastpapers/y2018p8q6.pdf)
 
 3. GDPR and Regulation
 - [2020 Paper 8 Question 7 Part B](https://www.cl.cam.ac.uk/teaching/exams/pastpapers/y2020p8q7.pdf)
