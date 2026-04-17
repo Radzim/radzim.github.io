@@ -21,9 +21,7 @@ title: Cybersecurity
 
 You're probably seeing this because I will be your supervisor for Cybersecurity this year - welcome!
 
-I set you quite a few questions, but they should be quick to solve, and I'm confident you'll do well, even with revision looming.
-
-Your supervision work will consist of Past Papers, Security Exercises from Markus Kuhn's edition of the course, and SEED labs. 
+I set you quite a few questions, but they should be quick to solve, and I'm confident you'll do well, even with revision looming. Your supervision work will consist of Past Papers, Security Exercises from Markus Kuhn's edition of the course, and SEED labs. 
 
 I trust you already have the SEED lab environments set up, and if not, now is the high time to do so! These labs are a vital part of the course, and you will see some of them assigned in the supervision work. While we will probably not have time to go over the SEED labs in much detail in the supervisions, you are still asked to complete them and show your work by the indicated supervisions. For more detailed help, please make sure you're available to attend the Intel Lab sessions.
 
@@ -32,6 +30,10 @@ This course has three supervisions, and with exams coming up, we must keep on sc
 I'm happy to supervise Online, in the Computer Lab, or in Churchill. For online supervisions I will be calling you on Teams, I'll follow this up with you closer to. Please let me know if you have any questions or requests re- course or scheduling. Also, let me know what kind of supervisions you prefer so I can put out more slots like that.
 
 Please book supervisions through KuDoS, and make sure you're in contact with your supervision partners. If there are any issues, or you are otherwise not on track to complete your work by the time you booked, let me know - I much prefer to postpone the supervision but get complete work.
+
+<br>
+
+---
 
 <br>
 
