@@ -8,7 +8,7 @@ title: Cybersecurity
 [Past Papers](https://www.cl.cam.ac.uk/teaching/exams/pastpapers/t-Cybersecurity.html)
 [SEED Labs](https://seedsecuritylabs.org/Labs_20.04/)
 [Markus Kuhn Exercises](https://www.cl.cam.ac.uk/teaching/2021/Security/security-exercises.pdf)
-[Wenliang Du book](https://www.handsonsecurity.net/)
+[Wenliang Du Book](https://www.handsonsecurity.net/)
 [Ross Anderson Book](https://www.cl.cam.ac.uk/~rja14/book.html)
 
 <br>
@@ -48,7 +48,9 @@ To take place after lecture 4
 2. Fundamentals of Access Control
 - [2021 Paper 4 Question 6 (a)](https://www.cl.cam.ac.uk/teaching/exams/pastpapers/y2021p4q6.pdf)
 - [Kuhn Exercises](https://www.cl.cam.ac.uk/teaching/2021/Security/security-exercises.pdf) Questions 6-8
-- SEED Lab: [Environment_Variable_and_SetUID](https://seedsecuritylabs.org/Labs_20.04/Software/Environment_Variable_and_SetUID/)
+- SEED Lab: [Environment_Variable_and_SetUID](https://seedsecuritylabs.org/Labs_20.04/Software/Environment_Variable_and_SetUID/) Tasks
+6, 7, 8
+- SEED Lab: [Buffer_Overflow_Setuid](https://seedsecuritylabs.org/Labs_20.04/Software/Buffer_Overflow_Setuid/) Tasks 3 and 4
 
 <br>
 
@@ -62,8 +64,8 @@ To take place after lecture 8
 
 1. Software Security
 - [2024 Paper 4 Question 8](https://www.cl.cam.ac.uk/teaching/exams/pastpapers/y2024p4q8.pdf)
-- SEED Lab: [Buffer_Overflow_Setuid](https://seedsecuritylabs.org/Labs_20.04/Software/Buffer_Overflow_Setuid/)
-- SEED Lab: [Web_SQL_Injection](https://seedsecuritylabs.org/Labs_20.04/Web/Web_SQL_Injection/)
+- SEED Lab: [Return to libc](https://seedsecuritylabs.org/Labs_20.04/Software/Return_to_Libc/) Tasks 1, 2, 3
+- SEED Lab: [Web_SQL_Injection](https://seedsecuritylabs.org/Labs_20.04/Web/Web_SQL_Injection/) Tasks 2, 3
 
 3. Authentication
 - [2024 Paper 4 Question 7](https://www.cl.cam.ac.uk/teaching/exams/pastpapers/y2024p4q7.pdf)
@@ -89,7 +91,8 @@ To take place after lecture 12
 - [1997 Paper 9 Question 9](https://www.cl.cam.ac.uk/teaching/exams/pastpapers/y1997p9q9.pdf)
 
 2. Web and internet security
-- SEED lab: [Web_XSS_Elgg](https://seedsecuritylabs.org/Labs_20.04/Web/Web_XSS_Elgg/)
+- SEED lab: [Web_CSRF_Elgg](https://seedsecuritylabs.org/Labs_20.04/Web/Web_CSRF_Elgg/) Tasks 1, 2, 3, 4
+- SEED lab: [Web_XSS_Elgg](https://seedsecuritylabs.org/Labs_20.04/Web/Web_XSS_Elgg/) Tasks 1, 2, 3, 4, 5, 6
 
 3. Human factors
 - [2014 Paper 7 Question 13 (a b e)](https://www.cl.cam.ac.uk/teaching/exams/pastpapers/y2014p7q13.pdf)
@@ -119,8 +122,7 @@ Things that I am not setting as supervision work, but you should do before exams
 [Introduction to Security](https://www.cl.cam.ac.uk/teaching/exams/pastpapers/t-IntroductiontoSecurity.html).
 
 2. SEED labs:
-- [Return to libc](https://seedsecuritylabs.org/Labs_20.04/Software/Return_to_Libc/)
-- [CSRF](https://seedsecuritylabs.org/Labs_20.04/Web/Web_CSRF_Elgg/)
+All remaining tasks in the SEED labs above.
 
 3. [Kuhn Exercises](https://www.cl.cam.ac.uk/teaching/2021/Security/security-exercises.pdf):
 - Questions 14, 18, 19, 20, 22, 23.
