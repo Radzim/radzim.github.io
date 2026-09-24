@@ -10,6 +10,8 @@ title: Home
 - [CamCORS](https://apps.casc.cam.ac.uk/ors/Home)
 - [KuDoS](https://kudos.chu.cam.ac.uk/supervisor/collect-work)
 - [Accelerate Notion](https://app.notion.com/p/accelerate-science)
+- [HPC LLM](https://llm.hpc.cam.ac.uk/ui/login/)
+- [Zenith LLM](https://zenithllms.chat/)
 
 <br><br><br>
 ## My Hats
