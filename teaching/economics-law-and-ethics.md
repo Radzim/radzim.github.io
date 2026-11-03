@@ -35,7 +35,7 @@ Please book supervisions through KuDoS, and make sure you're in contact with you
 ## Supervision 1
 To take place after lecture 4
 
-1. Supervision 1 questions from the [Worksheet](https://www.cl.cam.ac.uk/teaching/2425/EconLaw/supervision-material-2024-25.pdf)
+1. Supervision 1 questions from the [Worksheet](https://www.cl.cam.ac.uk/teaching/2627/EconLaw/supervision-material-2026-27.pdf)
 
 2. Past exam questions:
 Auctions: [2011 Paper 4 Question 7](https://www.cl.cam.ac.uk/teaching/exams/pastpapers/y2011p4q7.pdf)
@@ -56,7 +56,7 @@ e) How did the brown-shirt guy change the payoff matrix for blue-shirt - explain
 ## Supervision 2
 To take place after lecture 8
 
-1. Supervision 2 questions from the [Worksheet](https://www.cl.cam.ac.uk/teaching/2425/EconLaw/supervision-material-2024-25.pdf)
+1. Supervision 2 questions from the [Worksheet](https://www.cl.cam.ac.uk/teaching/2627/EconLaw/supervision-material-2026-27.pdf)
 
 2. Past exam questions:
    - Utility, pareto: [2020 Paper 7 Question 3 (A)](https://www.cl.cam.ac.uk/teaching/exams/pastpapers/y2020p7q3.pdf)  
